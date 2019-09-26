@@ -1,0 +1,2 @@
+D:\PRB\Session 6\InputUsingStreamReader\InputUsingStreamReader\bin\Debug\InputUsingStreamReader.exe.config
+D:\PRB\Session 6\InputUsingStreamReader\InputUsingStreamReader\obj\Debug\InputUsingStreamReader.csprojResolveAssemblyReference.cache
